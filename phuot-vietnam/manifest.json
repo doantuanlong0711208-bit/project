@@ -1,0 +1,22 @@
+{
+  "name": "Dọc Miền Đất Nước — Bản Đồ Phượt Đa Tầng",
+  "short_name": "Dọc Miền Đất Nước",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF8F4",
+  "theme_color": "#146338",
+  "description": "Bản đồ phượt đa tầng Việt Nam: toàn cảnh 4 vùng địa lý, địa hình 3D, thời tiết thực tế, tính kinh phí và định vị GPS.",
+  "icons": [
+    {
+      "src": "assets/images/logo-emblem.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo-app-icon.png",
+      "sizes": "214x214",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
